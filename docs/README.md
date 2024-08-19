@@ -34,6 +34,19 @@ conda activate code
 
 To generate images, please update the celebahq_hugginface.yaml config file according to your needs, then run
 
+### Metrics
+
+To compute metrics, first indicates the folder with the generated images on code/metrics/filter_data.py.
+Then run,
+```
+python code/metrics/filter_data.py
+```
+
+Then run,
+```
+bash code/metrics/calculate_all_metrics.sh
+```
+
 ```
 python -m code.main.py --trainer=celebahq_hugginface
 ```

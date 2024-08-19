@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/anonymous-author-12345/CODE/docs/images/Code_2.png" width="320"/>
+<img src="[https://github.com/anonymous-author-12345/CODE/docs/images/Code_2.png](https://github.com/anonymous-author-12345/CODE/blob/main/docs/images/Code_2.png)" width="320"/>
 </p>
 
 [**Project**](https://anonymous-author-12345.github.io/CODE/) | [**Paper**]() | [**Colab**]()

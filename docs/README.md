@@ -14,13 +14,13 @@ CODE aims to handle guidance image that are Out-of-Distribution in a systematic 
 
 
 <p align="center">
-<img src="https://github.com/anonymous-author-12345/CODE/blob/main/docs/images/Code_2.png" width="320"/>
+<img src="https://github.com/anonymous-author-12345/CODE/blob/main/docs/images/Code_2.png" />
 </p>
 
 ## Getting Started
 
 
-To generate images, please update the .yaml config file according to your needs, then run
+To generate images, please update the celebahq_hugginface.yaml config file according to your needs, then run
 
 ```
 python -m code.main.py --trainer=celebahq_hugginface

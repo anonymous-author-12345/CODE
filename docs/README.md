@@ -19,6 +19,16 @@ CODE aims to handle guidance image that are Out-of-Distribution in a systematic 
 
 ## Getting Started
 
+### Creating the environment
+
+Please run,
+```
+conda env create -f environment.yaml
+```
+Then activate the environment,
+```
+conda activate code
+```
 
 To generate images, please update the celebahq_hugginface.yaml config file according to your needs, then run
 

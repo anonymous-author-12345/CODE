@@ -5,7 +5,7 @@
 <img src="https://github.com/anonymous-author-12345/CODE/blob/main/docs/images/main_figure.png" />
 </p>
 
-[**Project**](https://anonymous-author-12345.github.io/CODE/) | [**Paper**]() | [**Colab**]()
+[**Project**](https://anonymous-author-12345.github.io/CODE/) | [**Colab**]()
 
 PyTorch implementation of **CODE: Confident Ordinary Differential Editing** (2024).
 
